@@ -3,3 +3,4 @@ Simply open the file that sounds more interesting, click the "Raw" button, then 
 
 Features:
 Default Scripts:
+Add Tokens - Add the maximum XP and Tokens availible for the day.
