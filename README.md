@@ -5,4 +5,4 @@ Simply open the file that sounds more interesting, click the "Raw" button, then 
 
 Default Scripts:
 
-Add Tokens
+[Add Tokens](https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Add%20Tokens.js
