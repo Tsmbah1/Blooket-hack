@@ -5,4 +5,5 @@ Simply open the file that sounds more interesting, click the "Raw" button, then 
 
 Default Scripts:
 
-[Add Tokens] - Add the maximum XP and Tokens availible for the day.
+Add Tokens - Add the maximum XP and Tokens availible for the day.
+Add Tokens
